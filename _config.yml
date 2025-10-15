@@ -18,22 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Runnin' With The Devil! 
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A game about running from the evil professors and ducks that inhibit the University Of York. Created with LibGDX and Java by 7 students desperatly in need of mental health support.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: zoey-ahmed-uni 
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
+
+show_downloads: true 
+github:
+  jar_url : https://www.youtube.com/shorts/JhKyj8dxBNE
 
 # Exclude from processing.
 # The following items will not be processed, by default.
