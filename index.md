@@ -16,7 +16,7 @@ TODO - ADD GAME IMAGES HERE
 - Alanah Bell: [@alanahbell](https://github.com/alanahbell)
 
 # PDF Links
-- Requirements : <<TODO>>
+- [Requirements](https://github.com/ahmination/2025-26-Engineering-1-/blob/main/PDFs/Req1.pdf)
 - Architecture : <<TODO>>
 - Method selection and planning : <<TODO>>
 - Risk assessment and mitigation : <<TODO>>
