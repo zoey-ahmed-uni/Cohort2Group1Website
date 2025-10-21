@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Runnin' With The Devil! 
+title: Escape from University!
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A 2D game about running from the evil professors and ducks that inhibit the University Of York. Created with LibGDX and Java.

@@ -2,13 +2,17 @@
 layout: default 
 ---
 
-Rising from your alcohol induced slumber, you wake up on the morning of your dissertation presentation to find out your dissertation papers had blown out the window and been spread across campus by the wind all through the night. Find and collect all your papers in time before the bus to your presentation leaves without you! 
-
 TODO - ADD GAME IMAGES HERE 
+
+You wake up in your student accommodation and look outside to realise your campus has been turned into a maze. Make it out of the maze and to the bus to escape campus!
+- Find your bus ticket to escape the university!
+- Discover hidden treasures in the campus bushes!
+- Gather sweet treats located around the maze!
+
 
 # Meet The Team
 - Zoey Ahmed: [@zoey-ahmed-uni](https://github.com/zoey-ahmed-uni)
-- Sasha Heer: [@sashaheer](https://github.com/sashaheer)  
+- Sasha Heer: [@sashaheer](https://github.com/sashaheer)
 - Ahmet Abdulhamit: [@ahmination](https://github.com/ahmination) 
 - Tomisin Bankole: [@tomisinbanks](https://github.com/tomisinbanks)
 - Alric Thilak: [@Alricfv](https://github.com/Alricfv)
